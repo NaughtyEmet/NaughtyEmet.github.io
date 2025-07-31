@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="Astrid" language="sv-SE">
+  <Say language="sv-SE">
     Hej. Detta är ett automatiserat samtal från Migrationsverket.
-  </Say>
-  <Pause length="1"/>
-  <Say voice="Astrid" language="sv-SE">
-    Vi kontaktar dig angående ett ärende som rör din nuvarande vistelse i Sverige.
-  </Say>
-  <Pause length="1"/>
-  <Say voice="Astrid" language="sv-SE">
-    Efter en nylig uppdatering i vårt register har vi noterat en avvikelse i din ärendestatus.
-  </Say>
-  <Pause length="2"/>
-  <Say voice="Astrid" language="sv-SE">
-    Den information vi har tillgång till tyder på att din rätt att vistas i Sverige har upphört att gälla.
-  </Say>
-  <Pause length="1"/>
-  <Say voice="Astrid" language="sv-SE">
-    Detta kan bero på ett uteblivet svar, ett missat möte, eller en ogiltig dokumentation.
-  </Say>
-  <Pause length="2"/>
-  <Say voice="Astrid" language="sv-SE">
-    Du ombeds att snarast kontakta Migrationsverkets kundtjänst för att utreda din nuvarande status och eventuella åtgärder.
-  </Say>
-  <Pause length="2"/>
-  <Say voice="Astrid" language="sv-SE">
-    Underlåtenhet att följa upp detta ärende kan påverka din framtida möjlighet att ansöka om tillstånd eller medborgarskap.
-  </Say>
-  <Pause length="2"/>
-  <Say voice="Astrid" language="sv-SE">
-    Detta meddelande har genererats automatiskt och kan inte besvaras.
-  </Say>
-  <Pause length="1"/>
-  <Say voice="Astrid" language="sv-SE">
-    Tack för att du använder Migrationsverkets tjänster.
   </Say>
 </Response>
